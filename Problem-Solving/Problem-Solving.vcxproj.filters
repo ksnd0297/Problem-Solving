@@ -1,0 +1,495 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\백준">
+      <UniqueIdentifier>{4cf24e98-3d18-4d7e-a44d-022e9dec72f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\Class2">
+      <UniqueIdentifier>{6711de14-4826-47c5-8888-f6d302329e3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\Class3">
+      <UniqueIdentifier>{7b1c5dba-94c3-4748-98e1-e96b26c8ecf3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\알고스팟">
+      <UniqueIdentifier>{f27f6481-a3a4-45a2-bfaa-8062d8866e2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\알고스팟\상">
+      <UniqueIdentifier>{f4e153a8-ac41-4328-8153-86ea5401ddb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\알고스팟\중">
+      <UniqueIdentifier>{4f2d7ee2-68c2-409d-8fbe-26225079c8dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\알고스팟\하">
+      <UniqueIdentifier>{5a7df7f9-68ee-49ad-97e4-61e3b761cd8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\알고스팟\그 외">
+      <UniqueIdentifier>{98fcaa8d-9934-430b-8517-22f155c4d4a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\알고스팟\공부자료">
+      <UniqueIdentifier>{7957bca8-a866-4379-8e42-b842a8934213}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\그 외">
+      <UniqueIdentifier>{f446c02a-4f65-49e0-a439-8ebe74af3c07}</UniqueIdentifier>
+    </Filter>
+<<<<<<< HEAD
+    <Filter Include="소스 파일\백준\그 외\DP">
+      <UniqueIdentifier>{84dae072-fa27-4392-913d-093221434f2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\그 외\그 외">
+      <UniqueIdentifier>{6be49d60-0163-4827-ba9b-55e1c00aa62b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준\SW 기초">
+      <UniqueIdentifier>{aa6cf412-5377-43a2-93a6-9ec44aa9fbd0}</UniqueIdentifier>
+    </Filter>
+=======
+>>>>>>> e07d2241b89a7890e41190e57971585ab47e7419
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="백준\Class2\2775번 부녀회장이 될테야.cpp">
+      <Filter>소스 파일\백준\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class2\1436번 영화감독 숌.cpp">
+      <Filter>소스 파일\백준\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class2\11651번 좌표 정렬하기2.cpp">
+      <Filter>소스 파일\백준\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class2\4949번 균형잡힌 세상.cpp">
+      <Filter>소스 파일\백준\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class2\18111번 마인크래프트.cpp">
+      <Filter>소스 파일\백준\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class2\1654번 랜선 자르기.cpp">
+      <Filter>소스 파일\백준\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class2\2805번 나무자르기.cpp">
+      <Filter>소스 파일\백준\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class2\1874번 스택 수열.cpp">
+      <Filter>소스 파일\백준\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class2\1966번 프린터 큐.cpp">
+      <Filter>소스 파일\백준\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class2\2108번 통계학.cpp">
+      <Filter>소스 파일\백준\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\1764번 듣보잡.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\2630번 색종이 만들기.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\1620번 나는야 포켓몬 마스터 이다솜.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\11279번 최대 힙.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\18870번 좌표 압축.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\1012번 유기농 배추.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\1931번 회의실 배정.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\1074번 Z.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\1927번 최소 힙.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\7662번 이중 우선순위 큐.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\17626번 Four Squares.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\17219번 비밀번호 찾기.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\1676번 팩토리얼 0의 개수.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\2579번 계단 오르기.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\9375번 패션왕 신해빈.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\9461번 파도반 수열.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\11659번 구간 합 구하기4.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\1541번 잃어버린 괄호.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\1780번 종이의 개수.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\5525번 IOIOI.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\11047번 동전0.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\1389번 케빈 베이컨의 6단계 법칙.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\1992번 쿼드트리.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\6064번 카잉달력.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\7596번 토마토.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\11286번 절댓값 힙.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\11403번 경로 찾기.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\16928번 뱀과 사다리 게임.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\5430번 AC.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\9019번 DSLR.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\10026번 적록색약.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\Class3\16236번 아기 상어.cpp">
+      <Filter>소스 파일\백준\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\FESTIVAL.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\그 외\HELLOWORLD.cpp">
+      <Filter>소스 파일\알고스팟\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\그 외\MERCY.cpp">
+      <Filter>소스 파일\알고스팟\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\그 외\ENDIANS.cpp">
+      <Filter>소스 파일\알고스팟\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\그 외\DRAWRECT.cpp">
+      <Filter>소스 파일\알고스팟\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\그 외\LECTURE.cpp">
+      <Filter>소스 파일\알고스팟\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\그 외\ENCRYPT.cpp">
+      <Filter>소스 파일\알고스팟\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\그 외\MISPELL.cpp">
+      <Filter>소스 파일\알고스팟\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\그 외\CONVERT.cpp">
+      <Filter>소스 파일\알고스팟\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\그 외\HOTSUMMER.cpp">
+      <Filter>소스 파일\알고스팟\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\그 외\URI.cpp">
+      <Filter>소스 파일\알고스팟\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\공부자료\코드6.2 n개의 원소 중 m개를 고르는 모든 조합을 찾는 알고리즘.cpp">
+      <Filter>소스 파일\알고스팟\공부자료</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\BOGGLE%28BFS%29.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\BOOGLE%28재귀호출%29.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\중\CLOCKSYNC.cpp">
+      <Filter>소스 파일\알고스팟\중</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\PICNIC%28스스로%29.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\BOARDCOVER%28스스로%29.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\공부자료\코드7-3 두 큰 수를 곱하는%28O^2%29 시간 알고리즘.cpp">
+      <Filter>소스 파일\알고스팟\공부자료</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\공부자료\코드7-4 카라츠바의 빠른 정수 곱셈 알고리즘.cpp">
+      <Filter>소스 파일\알고스팟\공부자료</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\QUADTREE.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\중\FENCE.cpp">
+      <Filter>소스 파일\알고스팟\중</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\JUMPGAME.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\중\WILDCARD%28완전탐색%29.cpp">
+      <Filter>소스 파일\알고스팟\중</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\중\★WILDCARD%28DP%29.cpp">
+      <Filter>소스 파일\알고스팟\중</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\TRIANGLEPATH.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\LIS.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\TRIANGLEPATH%28스스로%29.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\PI.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\TILING2.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\중\TRIPATHCNT.cpp">
+      <Filter>소스 파일\알고스팟\중</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\SNAIL.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\ASYMTILING.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\중\★POLY.cpp">
+      <Filter>소스 파일\알고스팟\중</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\중\NUMB3RS.cpp">
+      <Filter>소스 파일\알고스팟\중</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\JOSEPHUS.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\중\FENCE%28스스로%29.cpp">
+      <Filter>소스 파일\알고스팟\중</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\JOSEPHUS%28Queue%29.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\BACKETS2.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\중\ITES.cpp">
+      <Filter>소스 파일\알고스팟\중</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\TRAVERSAL.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\그 외\XHAENEUNG.cpp">
+      <Filter>소스 파일\알고스팟\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\중\FORTRESS.cpp">
+      <Filter>소스 파일\알고스팟\중</Filter>
+    </ClCompile>
+<<<<<<< HEAD
+    <ClCompile Include="알고스팟\공부자료\코드23 최대 힙 구현.cpp">
+      <Filter>소스 파일\알고스팟\공부자료</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\RUNNINGMEDIAN.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\공부자료\코드28-1 그래프의 깊이 우선 탐색.cpp">
+      <Filter>소스 파일\알고스팟\공부자료</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟\하\DICTIONARY.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\그 외\1098번 스타트링크 타워.cpp">
+      <Filter>소스 파일\백준\그 외\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\그 외\2133번 타일 채우기.cpp">
+      <Filter>소스 파일\백준\그 외\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\그 외\2407번 조합.cpp">
+      <Filter>소스 파일\백준\그 외\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\그 외\9625번 BABBA.cpp">
+      <Filter>소스 파일\백준\그 외\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\그 외\10870번 피보나치 수5.cpp">
+      <Filter>소스 파일\백준\그 외\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\그 외\13301번 타일 장식물.cpp">
+      <Filter>소스 파일\백준\그 외\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\그 외\13915번 현수의 열기구 교실.cpp">
+      <Filter>소스 파일\백준\그 외\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\그 외\15947번 아기 석환 뚜루루 뚜루.cpp">
+      <Filter>소스 파일\백준\그 외\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\그 외\22113번 창영이와 버스.cpp">
+      <Filter>소스 파일\백준\그 외\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\15881번 Pen Pineapple Apple Pen.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\16395번 파스칼의 삼각형.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\1010번 다리 놓기.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\9655번 돌 게임.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\9656번 돌 게임2.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\10709번 기상캐스터.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\14916번 거스름돈.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\15489번 파스칼 삼각형.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\19947번 투자의 귀재 배주형.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\2670번 연속부분최대곱.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\10826번 피보나치 수4.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\13699번 점화식.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\14606번 피자%28Small%29.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\1463번 1로 만들기.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\1699번 제곱수의 합.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\1520번 내리막 길.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\SW기초\GCD 유클리드 호제법.cpp">
+      <Filter>소스 파일\백준\SW 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\그 외\10804번 카드 역배치.cpp">
+      <Filter>소스 파일\백준\그 외\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\10160번 암호.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\그 외\1978번 소수 찾기.cpp">
+      <Filter>소스 파일\백준\그 외\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\그 외\6588번 골드바흐의 추측.cpp">
+      <Filter>소스 파일\백준\그 외\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\1904번 01타일.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\SW기초\2309번 일곱 난쟁이.cpp">
+      <Filter>소스 파일\백준\SW 기초</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\2491번 수열.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\6571번 피보나치 수의 개수.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\9657번 돌 게임3.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\DP\20500번 Ezreal 여눈부터 가네 ㅈㅈ.cpp">
+      <Filter>소스 파일\백준\그 외\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="백준\그 외\14500번 테트로미노.cpp">
+      <Filter>소스 파일\백준\그 외\그 외</Filter>
+=======
+    <ClCompile Include="JUMPGAME.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="WILDCARD%28완전탐색%29.cpp">
+      <Filter>소스 파일\알고스팟\중</Filter>
+    </ClCompile>
+    <ClCompile Include="★WILDCARD%28DP%29.cpp">
+      <Filter>소스 파일\알고스팟\중</Filter>
+    </ClCompile>
+    <ClCompile Include="TRIANGLEPATH.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="LIS.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="TRIANGLEPATH(스스로).cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="PI.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="10870번 피보나치 수5.cpp">
+      <Filter>소스 파일\백준\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="9625번 BABBA.cpp">
+      <Filter>소스 파일\백준\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="13301번 타일 장식물.cpp">
+      <Filter>소스 파일\백준\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="TILING2.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="TRIPATHCNT.cpp">
+      <Filter>소스 파일\알고스팟\중</Filter>
+    </ClCompile>
+    <ClCompile Include="SNAIL.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="ASYMTILING.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="2133번 타일 채우기.cpp">
+      <Filter>소스 파일\백준\그 외</Filter>
+    </ClCompile>
+    <ClCompile Include="★POLY.cpp">
+      <Filter>소스 파일\알고스팟\중</Filter>
+    </ClCompile>
+    <ClCompile Include="NUMB3RS.cpp">
+      <Filter>소스 파일\알고스팟\중</Filter>
+    </ClCompile>
+    <ClCompile Include="JOSEPHUS.cpp">
+      <Filter>소스 파일\알고스팟\하</Filter>
+    </ClCompile>
+    <ClCompile Include="FENCE(스스로).cpp">
+      <Filter>소스 파일\알고스팟\중</Filter>
+>>>>>>> e07d2241b89a7890e41190e57971585ab47e7419
+    </ClCompile>
+  </ItemGroup>
+</Project>
